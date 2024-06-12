@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Classes
+namespace Classes 
 {
-    internal class Class2
-    {
-    }
+
 }
 
-class Car
+public class Car
 {
     public Car()
     {

@@ -6,7 +6,7 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            Car car1 = new Car();
+            global::Car car1 = new global::Car();
 
             car1.Year = 2023;
             car1.Make = "Audi";

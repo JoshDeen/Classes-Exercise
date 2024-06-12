@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|c:\\users\\joshd\\desktop\\repos\\classes-exercise\\classes\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|solutionrelative:classes\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|c:\\users\\joshd\\desktop\\repos\\classes-exercise\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\joshd\\Desktop\\Repos\\Classes-Exercise\\Classes\\Class2.cs",
-              "RelativeDocumentMoniker": "Classes\\Class2.cs",
-              "ToolTip": "C:\\Users\\joshd\\Desktop\\Repos\\Classes-Exercise\\Classes\\Class2.cs",
-              "RelativeToolTip": "Classes\\Class2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\joshd\\Desktop\\Repos\\Classes-Exercise\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\joshd\\Desktop\\Repos\\Classes-Exercise\\Classes\\Car.cs",
+              "RelativeToolTip": "Classes\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T18:28:39.042Z",
               "EditorCaption": ""
